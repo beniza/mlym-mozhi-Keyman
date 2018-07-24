@@ -5,9 +5,9 @@ c This keyboard closely follows (still there need some work) the latest (Jul 201
 c Mozhi Spec can be found here(https://sites.google.com/site/cibu/mozhi/mozhi2)
 store(&VERSION) '9.0'
 store(&NAME) 'Malayalam Mozhi'
-store(&KEYBOARDVERSION) '1.0'
+store(&KEYBOARDVERSION) '1.0.1'
 store(&BITMAP) 'mlym_mozhi.ico'
-store(&COPYRIGHT) 'GPLv3'
+store(&COPYRIGHT) 'MIT'
 store(&TARGETS) 'windows macosx linux iphone ipad androidphone androidtablet desktop'
 store(&ETHNOLOGUECODE) 'mal'
 store(&WINDOWSLANGUAGES) 'x044C'
