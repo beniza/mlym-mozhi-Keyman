@@ -11,6 +11,7 @@ store(&COPYRIGHT) '© Raj Nair MIT'
 store(&TARGETS) 'windows macosx linux iphone ipad androidphone androidtablet desktop'
 store(&ETHNOLOGUECODE) 'mal'
 store(&WINDOWSLANGUAGES) 'x044C'
+store(&LANGUAGE) 'x044C'
 begin Unicode > use(main)
 
 
