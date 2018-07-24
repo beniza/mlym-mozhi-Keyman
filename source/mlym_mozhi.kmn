@@ -3,6 +3,7 @@ store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidta
 store(&NAME) 'Malayalam Mozhi Keyboard'
 store(&ETHNOLOGUECODE) 'mal'
 store(&WINDOWSLANGUAGES) 'x044C'
+store(&LANGUAGE) 'x044C'
 begin Unicode > use(main)
 
 group(main) using keys                            
