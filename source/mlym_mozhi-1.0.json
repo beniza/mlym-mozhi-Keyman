@@ -1,0 +1,20 @@
+﻿{
+  "options" : {
+    "device" : "any",
+    "keyboardBaseUri" : "http://nlci.in/tools",
+    "fontBaseUri" : "http://smc.org.in/fonts"
+  },
+  "keyboard" : {
+    "id" : "mlym_mozhi",
+    "name" : "Malayalam Mozhi",
+    "filename" : "mlym_mozhi-1.0.1.js",
+    "version" : "1.0.1",
+    "lastModified" : "2018-07-24T23:01:09.441+05:30",
+    "languages" : [
+      {
+        "id" : "mal",
+        "name" : "Malayalam"
+      }
+      ]
+  }
+}
